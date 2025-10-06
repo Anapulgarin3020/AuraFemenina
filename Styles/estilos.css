@@ -1,0 +1,26 @@
+.colorUno{
+    background-color:#005b47 ;
+    
+
+}
+.colorDos{
+    background-color: #517fb6;
+
+}
+.colorTres{
+    background-color: #329b8b;
+
+}
+
+.fuente{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.fondo{
+    background-image: url("../img/Fondo\ 1.jpg");
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
